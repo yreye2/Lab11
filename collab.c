@@ -25,8 +25,9 @@ void reed_ekidan2() {
 
 void ppacho2_grohr2() {
     puts("Peter Pacholarz and Gavin Rohrer");
-    puts("I learned that you need to make sure the polkit agent is running to clone over ssh");
-    puts("I also learned that using git is easier than copy pasting to Google Drive");
+    puts("I learned that you need to make sure the polkit agent is running to clone over ssh\n");
+    puts("I also learned that using git is easier than copy pasting to Google Drive\n");
+    puts( "Especially when backing up / copying the projects between computers.\n" );
 }
 
 void mausaf2_kperez39() {
