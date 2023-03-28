@@ -43,9 +43,20 @@ void dkhar3_nvaly2() {
   printf("We learned that GitHub is a collaborative cloud environment that "
          "makes collaborating on projects really easy and simple");
 }
-void amari9_asurka2(){
+void amari9_asurka2() {
   printf("Aaryan Mariselvam and Aarav Surkatha");
-  printf("We learned there are many ways we can use and maipulate a git hub repository file\n");
+  printf("We learned there are many ways we can use and maipulate a git hub "
+         "repository file\n");
+}
+
+void stinu2_cdoma2() {
+  printf("Stephen and Conrad");
+  printf(
+      "I learned about the need for version control, especially when working "
+      "with large codebases. Git and GitHub, in general, allow multiple "
+      "developers to collaborate efficiently while keep code organized.");
+  printf("We learned about the versatile functionalities of git and how we are "
+         "able to keep version and logs of a working tree/ code progress");
 }
 
 int main() {
