@@ -23,6 +23,12 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void shadd3_alojko2() {
+  printf("Sammy Haddad and Angela Lojko\n");
+  printf("From the readings, we learned that git and GitHub are really effective when working on large projects with many people.\n");
+  printf("We can also see what a user changed/added to the program.\n"); 
+}
+
 void ppacho2_grohr2() {
   puts("Peter Pacholarz and Gavin Rohrer");
   puts("I learned that you need to make sure the polkit agent is running to "
@@ -59,15 +65,24 @@ void stinu2_cdoma2() {
          "able to keep version and logs of a working tree/ code progress");
 }
 
+
+void jgongo2_pkoby2_kseki3() {
+    printf("Juli Gongora Falla, Phillip Kobylinski, and Kaito Sekiya\n");
+    printf("We learned that commit and push are seperate operations. "
+           "You can make multiple commmits before pushing to the repository.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
 
   reed_ekidan2();
+  shadd3_alojko2();
   mausaf2_kperez39();
   ppacho2_grohr2();
   dkhar3_nvaly2();
   amari9_asurka2();
+  jgongo2_pkoby2_kseki3();
 
   return 0;
 }
