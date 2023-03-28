@@ -33,6 +33,11 @@ void mausaf2_kperez39() {
   printf("We learned that git push uplaods local changes to a remote repository\n");
 }
 
+void dkhar3_nvaly2() {
+  printf("Dev Kharvari and Nathan Valyaneth\n");
+  printf("We learned that GitHub is a collaborative cloud environment that makes collaborating on projects really easy and simple");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -40,6 +45,7 @@ int main()
     reed_ekidan2();
     mausaf2_kperez39();
     ppacho2_grohr2();
+    dkhar3_nvaly2();
     
     return 0;
 }
