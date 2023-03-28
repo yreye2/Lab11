@@ -43,6 +43,10 @@ void dkhar3_nvaly2() {
   printf("We learned that GitHub is a collaborative cloud environment that "
          "makes collaborating on projects really easy and simple");
 }
+void amari9_asurka2(){
+  printf("Aaryan Mariselvam and Aarav Surkatha");
+  printf("We learned there are many ways we can use and maipulate a git hub repository file\n");
+}
 
 int main() {
   printf(
@@ -52,6 +56,7 @@ int main() {
   mausaf2_kperez39();
   ppacho2_grohr2();
   dkhar3_nvaly2();
+  amari9_asurka2();
 
   return 0;
 }
