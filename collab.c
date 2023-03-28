@@ -72,6 +72,11 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void yreye2_smut3(){
+  printf("Yadira and Sonina");
+  printf("We learned how to connect GitHub to Replit. We had trouble accessing a repository. We learned that you can get the link from GitHub to the repository and then create a project in Replit and put put the link.")
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +88,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  yreye2_smut3();
 
   return 0;
 }
