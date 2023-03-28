@@ -22,25 +22,19 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-
-void ppacho2_grohr2() {
-    puts("Peter Pacholarz and Gavin Rohrer");
-    puts("I learned that you need to make sure the polkit agent is running to clone over ssh");
-    puts("I also learned that using git is easier than copy pasting to Google Drive");
-    puts( "Especially when trying to synchronize my work across the computers." );
+void mruch2_lzioga2_djbiel2() {
+  printf("Michael Ruch, Louka Ziogas, and Dawid Biel\n");
+  printf("We learned some of the different github commands as well as how they are implimented in relation to repositories.\nFor example, we thought that the diff command was interesting how it showed the exact differences between two inputs line by line");
 }
 
-void mausaf2_kperez39() {
-  printf("We learned that git push uplaods local changes to a remote repository\n");
-}
+
 
 int main()
 {
     printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
     
-    reed_ekidan2();
-    mausaf2_kperez39();
-    ppacho2_grohr2();
+   mruch2_lzioga2_djbiel2();
     
     return 0;
 }
+
