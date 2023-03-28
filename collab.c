@@ -27,6 +27,7 @@ void ppacho2_grohr2() {
     puts("Peter Pacholarz and Gavin Rohrer");
     puts("I learned that you need to make sure the polkit agent is running to clone over ssh");
     puts("I also learned that using git is easier than copy pasting to Google Drive");
+}
 
 void mausaf2_kperez39() {
   printf("We learned that git push uplaods local changes to a remote repository\n");
