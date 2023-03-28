@@ -54,6 +54,13 @@ void amari9_asurka2(){
   printf("We learned there are many ways we can use and maipulate a git hub repository file\n");
 }
 
+
+void jgongo2_pkoby2_kseki3() {
+    printf("Juli Gongora Falla, Phillip Kobylinski, and Kaito Sekiya\n");
+    printf("We learned that commit and push are seperate operations. "
+           "You can make multiple commmits before pushing to the repository.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -64,6 +71,7 @@ int main() {
   ppacho2_grohr2();
   dkhar3_nvaly2();
   amari9_asurka2();
+  jgongo2_pkoby2_kseki3();
 
   return 0;
 }
