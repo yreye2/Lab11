@@ -26,6 +26,7 @@ void reed_ekidan2() {
 void shadd3_alojko2() {
   printf("Sammy Haddad and Angela Lojko\n");
   printf("From the readings, we learned that git and GitHub are really effective when working on large projects with many people.\n");
+  printf("We can also see what a user changed/added to the program.\n"); 
 }
 
 void ppacho2_grohr2() {
