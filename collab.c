@@ -27,6 +27,10 @@ void mruch2_lzioga2_djbiel2() {
   printf("We learned some of the different github commands as well as how they are implimented in relation to repositories.\nFor example, we thought that the diff command was interesting how it showed the exact differences between two inputs line by line");
 }
 
+void Jnava40_hchau6(){
+  printf("Juan Navarro and Hisham Chaudhry");
+  printf("We learned how to clone a repository and how to create a new branch as well as merging branches.");
+}
 
 
 int main()
