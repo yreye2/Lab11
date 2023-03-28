@@ -65,6 +65,10 @@ void stinu2_cdoma2() {
          "able to keep version and logs of a working tree/ code progress");
 }
 
+void Jnava40_hchau6(){
+  printf("Juan Navarro and Hisham Chaudhry");
+  printf("We learned how to clone a repository and how to create a new branch as well as merging branches.");
+}
 
 void jgongo2_pkoby2_kseki3() {
     printf("Juli Gongora Falla, Phillip Kobylinski, and Kaito Sekiya\n");
